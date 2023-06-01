@@ -3,14 +3,16 @@
 
 **ujju2000/ujju2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+🔭 I’m currently working on: JavaScript projects and exploring new frameworks and libraries.
 
-- 🔭 I’m currently working on ... FullStack Development
-- 🌱 I’m currently learning ... JavaScript
-<!-- - 👯 I’m looking to collaborate on ...  -->
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... 
-- 📫 How to reach me: ...  tarika.ujjwal@gmail.com
-<!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: ... Coding is not fun
+🌱 I’m currently learning: React and improving my skills in frontend development.
+
+🤔 I’m looking for help with: Open Source Contribution and gaining more experience in collaborative projects.
+
+💬 Ask me about: Web development, JavaScript, HTML, CSS, MERN stack, and my project experiences.
+
+📫 How to reach me: tarika.ujjwal@gmail.com
+
+⚡ Fun fact: I enjoy solving coding challenges and learning new programming languages.
+
 
