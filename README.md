@@ -15,4 +15,6 @@
 
 ⚡ Fun fact: I enjoy solving coding challenges and learning new programming languages.
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=ujju2000&show_icons=true&theme=dark"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujju2000&layout=compact&theme=dark"/>
+<img height=165px align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=ujju2000&layout=compact&theme=dark" alt="imran2001"/>
