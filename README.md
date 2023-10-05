@@ -18,4 +18,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ujju2000&show_icons=true&theme=dark"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujju2000&layout=compact&theme=dark"/>
 
-[![@ujjwal_tarika's Holopin board](https://holopin.me/ujjwal_tarika)](https://holopin.io/@ujjwal_tarika)
+<img src = "https://holopin.me/ujjwal_tarika" />
