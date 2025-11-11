@@ -5,11 +5,7 @@
 
 🔭 I’m currently working on: JavaScript projects and exploring new frameworks and libraries.
 
-🌱 I’m currently learning: React and improving my skills in frontend development.
-
-🤔 I’m looking for help with: Open Source Contribution and gaining more experience in collaborative projects.
-
-💬 Ask me about: Web development, JavaScript, HTML, CSS, MERN stack, and my project experiences.
+🌱 I’m currently learning: Nextjs 
 
 📫 How to reach me: tarika.ujjwal@gmail.com
 
