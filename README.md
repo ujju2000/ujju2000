@@ -3,15 +3,10 @@
 
 **ujju2000/ujju2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-🔭 I’m currently working on: JavaScript projects and exploring new frameworks and libraries.
+🔭 I’m currently working on: Saas Projects and business.
 
-🌱 I’m currently learning: Nextjs 
+🌱 I’m currently learning: Patience 
 
 📫 How to reach me: tarika.ujjwal@gmail.com
 
-⚡ Fun fact: I enjoy solving coding challenges and learning new programming languages.
-
-<img src="https://github-readme-stats.vercel.app/api?username=ujju2000&show_icons=true&theme=dark"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujju2000&layout=compact&theme=dark"/>
-
-<img src = "https://holopin.me/ujjwal_tarika" />
+⚡ Fun fact: There is no fun in fact.
