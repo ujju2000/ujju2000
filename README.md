@@ -3,10 +3,9 @@
 
 **ujju2000/ujju2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-🔭 I’m currently working on: Saas Projects and business.
+Building AI-powered SaaS and software for real businesses.
 
-🌱 I’m currently learning: Patience 
+Next.js • AI • Automation • B2B SaaS • Entrepreneurship
 
-📫 How to reach me: tarika.ujjwal@gmail.com
+Learning, building, and compounding every day.
 
-⚡ Fun fact: There is no fun in fact.
